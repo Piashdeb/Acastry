@@ -1,0 +1,36 @@
+.text-block {
+    position: absolute;
+    top: 20px;
+    left: 16px;
+    color: aliceblue; 
+  }
+  .image-block{
+      position: absolute;
+      top: 90px;
+  }
+ .footer-block{
+     padding-left: 20px;
+     padding-bottom: 7px;
+ }
+.image1{
+    position: absolute;
+}
+.image2{
+    
+    padding-left: 35px;
+    padding-bottom: 5px;
+}
+.image3{
+    position: absolute;
+    left: 50px;
+}
+.file-icons{
+    padding-left: 170px;
+}
+.single-counter{
+    font-size: 10px;
+    height: auto;
+    font-weight: bold;
+}
+
+
