@@ -32,3 +32,20 @@
   .dropdown:hover .dropdown-content {display: block;}
   
   .dropdown:hover .dropbtn {background-color: #3e8e41;}
+  
+  .cards{
+    padding-left: 100px;
+    margin-left: 100px;
+    /* size: 25px; */
+    gap: 5px;
+  }
+  .single-counter{
+    font-size: 10px;
+    height: auto;
+    font-weight: bold;
+   
+}
+.dots{
+  padding-left: 100px;
+  padding-top: 30px;
+}
