@@ -1,3 +1,10 @@
+
+head{
+  font-family: 'Poppins', sans-serif;
+}
+body{
+  font-family: 'Poppins', sans-serif;
+}
 .dropbtn {
     background-color: #E5E5E5;
     color: rgb(0, 0, 0);
@@ -49,3 +56,4 @@
   padding-left: 100px;
   padding-top: 30px;
 }
+
