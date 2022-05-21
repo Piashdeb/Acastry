@@ -1,0 +1,36 @@
+.text-block {
+    position: absolute;
+    top: 100px;
+    left: 150px;
+    color: aliceblue;
+}
+
+.dots {
+    margin-top: 0px;
+    margin-left: 870px;
+}
+
+.button {
+    padding-left: 0px;
+    padding-right: 0px;
+}
+
+.cards {
+    padding-left: 100px;
+    margin-left: 100px;
+    /* size: 25px; */
+    gap: 5px;
+    flex-wrap: wrap;
+}
+
+.single-counter {
+    font-size: 10px;
+    height: auto;
+    font-weight: bold;
+
+}
+
+.dots {
+    padding-left: 100px;
+    padding-top: 30px;
+}
